@@ -1,0 +1,8 @@
+int Main{
+int x;
+Scanf("%d",&x);
+Printf("Square of number %d is equal %d",x,x*x);
+
+
+
+}
